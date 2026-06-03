@@ -10,7 +10,7 @@
 
 ## Mahnoor Ahmed
 
-3rd Year Data Science Student. I build intelligent backends — agents that reason, pipelines that move data, and models that learn how systems communicate. Experienced with Azure AI Copilot Agents. Currently researching how AI agents communicate, coordinate & model each other's behaviour in multi-agent systems.
+3rd Year Data Science Student. I build intelligent backends: agents that reason, pipelines that move data, and models that learn how systems communicate. Experienced with Azure AI & Microsoft Custom Copilot Agents integrated across buisiness ecosystems through connectors. Currently researching how AI agents communicate, coordinate & model each other's behaviour in multi-agent systems.
 
 <table border="1" cellspacing="0" cellpadding="12">
 <tr>
