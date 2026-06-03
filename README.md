@@ -14,12 +14,12 @@
 
 <table border="1" cellspacing="0" cellpadding="12">
 <tr>
-<td width="200"><b>🤖 AI agents</b><br/><sub>multi-agent systems, CrewAI, LangChain orchestration</sub></td>
-<td width="200"><b>📊 Data analytics</b><br/><sub>pipelines, EDA, making sense of messy real-world data</sub></td>
+<td width="200" bgcolor="#161b22"><b>🤖 AI agents</b><br/><sub>multi-agent systems, CrewAI, LangChain orchestration</sub></td>
+<td width="200" bgcolor="#161b22"><b>📊 Data analytics</b><br/><sub>pipelines, EDA, making sense of messy real-world data</sub></td>
 </tr>
 <tr>
-<td width="200"><b>⚙️ ML pipelines</b><br/><sub>model deployment, Azure AI, end-to-end workflows</sub></td>
-<td width="200"><b>🕸️ GNNs</b><br/><sub>graph neural networks, relational learning, structured data</sub></td>
+<td width="200" bgcolor="#161b22"><b>⚙️ ML pipelines</b><br/><sub>model deployment, Azure AI, end-to-end workflows</sub></td>
+<td width="200" bgcolor="#161b22"><b>🕸️ GNNs</b><br/><sub>graph neural networks, relational learning, structured data</sub></td>
 </tr>
 </table>
 
