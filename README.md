@@ -25,8 +25,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-534AB7?style=flat-square&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-534AB7?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-534AB7?style=flat-square&logoColor=white&logo=postgresql)
-![Azure AI](https://img.shields.io/badge/Azure_AI-534AB7?style=flat-square&logoColor=white&logo=microsoftazure)
-![Copilot Agents](https://img.shields.io/badge/Copilot_Agents-534AB7?style=flat-square&logoColor=white&logo=microsoftazure)
+![Azure AI](https://img.shields.io/badge/Azure_AI-534AB7?style=flat-square&logoColor=white&logo=microsoftazure) ![Copilot Agents](https://img.shields.io/badge/Copilot_Agents-534AB7?style=flat-square&logoColor=white&logo=microsoftazure)
 ![Pandas](https://img.shields.io/badge/Pandas-534AB7?style=flat-square&logoColor=white&logo=pandas)
 ![FastAPI](https://img.shields.io/badge/FastAPI-534AB7?style=flat-square&logoColor=white&logo=fastapi)
 
@@ -35,5 +34,6 @@
 **GitHub Stats**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahnoorAhmed-Dev&theme=tokyonight&hide_border=true" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MahnoorAhmed-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="140"/>
 
 </div>
