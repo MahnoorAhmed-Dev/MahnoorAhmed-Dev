@@ -1,16 +1,8 @@
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="220" valign="middle">
-  <img src="cat-moon.png" width="210" alt="cat coding on a crescent moon"/>
-</td>
-<td width="30"></td>
-<td valign="middle">
-
 ## Mahnoor Ahmed
 
-3rd Year Data Science Student. I build intelligent backends — agents that reason, pipelines that move data, and models that learn how systems communicate. Experienced with Azure AI Copilot Agents. Currently researching how AI agents communicate, coordinate & model each other's behaviour in multi-agent systems.
+3rd Year Data Science Student. I build intelligent backends: agents that reason, pipelines that move data, and models that learn how systems communicate. Experienced with Azure AI & Copilot Agents integrated across business ecosystems through connectors. Currently researching how AI agents communicate, coordinate & model each other's behaviour in multi-agent systems.
 
 <table border="1" cellspacing="0" cellpadding="12">
 <tr>
@@ -20,10 +12,6 @@
 <tr>
 <td width="200" bgcolor="#161b22"><b>⚙️ ML pipelines</b><br/><sub>model deployment, Azure AI, end-to-end workflows</sub></td>
 <td width="200" bgcolor="#161b22"><b>🕸️ GNNs</b><br/><sub>graph neural networks, relational learning, structured data</sub></td>
-</tr>
-</table>
-
-</td>
 </tr>
 </table>
 
